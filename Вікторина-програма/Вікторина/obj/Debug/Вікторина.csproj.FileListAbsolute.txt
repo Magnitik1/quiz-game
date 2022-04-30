@@ -1,0 +1,8 @@
+C:\Users\aleks\Desktop\Вікторина-програма\Вікторина\bin\Debug\Вікторина.exe.config
+C:\Users\aleks\Desktop\Вікторина-програма\Вікторина\bin\Debug\Вікторина.exe
+C:\Users\aleks\Desktop\Вікторина-програма\Вікторина\bin\Debug\Вікторина.pdb
+C:\Users\aleks\Desktop\Вікторина-програма\Вікторина\obj\Debug\Вікторина.csproj.CoreCompileInputs.cache
+C:\Users\aleks\Desktop\Вікторина-програма\Вікторина\obj\Debug\Вікторина.exe
+C:\Users\aleks\Desktop\Вікторина-програма\Вікторина\obj\Debug\Вікторина.pdb
+C:\Users\aleks\Desktop\Вікторина-програма\Вікторина\obj\Debug\Вікторина.csproj.AssemblyReference.cache
+C:\Users\aleks\Desktop\Вікторина-програма\Вікторина\obj\Debug\Вікторина.csproj.SuggestedBindingRedirects.cache

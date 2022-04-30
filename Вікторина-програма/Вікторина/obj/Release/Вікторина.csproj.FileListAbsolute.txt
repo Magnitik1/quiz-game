@@ -1,0 +1,10 @@
+C:\Users\aleks\Desktop\Вікторина-програма\Вікторина\bin\Release\Вікторина.exe.config
+C:\Users\aleks\Desktop\Вікторина-програма\Вікторина\bin\Release\Вікторина.exe
+C:\Users\aleks\Desktop\Вікторина-програма\Вікторина\bin\Release\Вікторина.pdb
+C:\Users\aleks\Desktop\Вікторина-програма\Вікторина\bin\Release\Entering.dll
+C:\Users\aleks\Desktop\Вікторина-програма\Вікторина\bin\Release\Entering.pdb
+C:\Users\aleks\Desktop\Вікторина-програма\Вікторина\obj\Release\Вікторина.csprojAssemblyReference.cache
+C:\Users\aleks\Desktop\Вікторина-програма\Вікторина\obj\Release\Вікторина.csproj.CoreCompileInputs.cache
+C:\Users\aleks\Desktop\Вікторина-програма\Вікторина\obj\Release\Вікторина.csproj.CopyComplete
+C:\Users\aleks\Desktop\Вікторина-програма\Вікторина\obj\Release\Вікторина.exe
+C:\Users\aleks\Desktop\Вікторина-програма\Вікторина\obj\Release\Вікторина.pdb

@@ -1,0 +1,12 @@
+It is something like a quiz game. 
+
+You can play as a guest or create and enter your account. In the second variant, you can see
+your games' history and other players' top scores.
+
+When you start a game, you need to choose any of the topics/under topics. There are a few types 
+of questions: regular, solve an equation, with more than 1 right answer and write (word) answer.
+
+You can enter as administrator [fourth line] (Password: 1111) and change, add and delete questions.
+Also, you can add, delete and change topics. Watch and delete players' profiles.
+
+if someone needs it translated into English, I think, I can do it.
